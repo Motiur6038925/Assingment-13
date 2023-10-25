@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-link{
+  color: red !important;
+}
+
+.pending-link{
+  color: green !important;
+}
+
+.my-font{
+  font-family: var(font-siliguri);
+}
+
+.my-font2{
+  font-family:var(font-Roboto) ;
+}
